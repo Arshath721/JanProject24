@@ -6,4 +6,10 @@ public class FlipKart {
 		System.out.println("emp a done my code");
 
 	}
+
+	private void empB() {
+		System.out.println("emp b is completed the code");
+
+	}
+
 }
